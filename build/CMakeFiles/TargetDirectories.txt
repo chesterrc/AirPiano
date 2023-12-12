@@ -1,0 +1,9 @@
+C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano/build/CMakeFiles/Experimental.dir
+C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano/build/CMakeFiles/Continuous.dir
+C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano/build/CMakeFiles/Nightly.dir
+C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano/build/CMakeFiles/AirPiano.dir
+C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano/build/CMakeFiles/PACKAGE.dir
+C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano/build/CMakeFiles/ZERO_CHECK.dir
