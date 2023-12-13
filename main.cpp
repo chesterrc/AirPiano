@@ -1,19 +1,14 @@
 #include <stdio.h>
 #include <opencv2/opencv.hpp>
+#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv2/highgui/highgui.hpp>
+#include <iostream>
 
 using namespace cv;
-int main(int argc, char** argv )
+int main()
 {
-
-    Mat image;
-    image = imread("lenna.png");
-    if ( !image.data )
-    {
-        printf("No image data \n");
-        return -1;
-    }
-    namedWindow("Display Image", WINDOW_AUTOSIZE );
-    imshow("Display Image", image);
-    waitKey(0);
+    printf("before image read");
+    fflush(stdout);
+    
     return 0;
 }
