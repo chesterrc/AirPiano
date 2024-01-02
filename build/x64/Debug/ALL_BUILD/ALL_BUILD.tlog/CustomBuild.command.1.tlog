@@ -1,6 +1,6 @@
-^C:\USERS\LIVTI\DESKTOP\PROJECTS\ML STUFF\AIRPIANO\CMAKELISTS.TXT
+^C:\USERS\LIVTI\DESKTOP\PROJECTS\MLSTUFF\AIRPIANO-1\CMAKELISTS.TXT
 setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/livti/Desktop/Projects/ML Stuff/AirPiano" "-BC:/Users/livti/Desktop/Projects/ML Stuff/AirPiano/build" --check-stamp-file "C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano/build/CMakeFiles/generate.stamp"
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/livti/Desktop/Projects/MLStuff/AirPiano-1 -BC:/Users/livti/Desktop/Projects/MLStuff/AirPiano-1/build --check-stamp-file C:/Users/livti/Desktop/Projects/MLStuff/AirPiano-1/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

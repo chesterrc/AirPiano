@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\livti\Desktop\Projects\ML Stuff\AirPiano\build\CMakeFiles\94db07a5a701d2e729ec37a3e114fcf6\PACKAGE_force.rule">
+    <CustomBuild Include="C:\Users\livti\Desktop\Projects\MLStuff\AirPiano-1\build\CMakeFiles\0c40a01ab3c3e3d348a4cfeea6d553ce\PACKAGE_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{40694B51-D559-3C8D-8330-07966D43EC32}</UniqueIdentifier>
+      <UniqueIdentifier>{80D7D399-2E30-3AD0-92C9-911A11629D21}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano
-BuildDirectory: C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano/build
+SourceDirectory: C:/Users/livti/Desktop/Projects/MLStuff/AirPiano-1
+BuildDirectory: C:/Users/livti/Desktop/Projects/MLStuff/AirPiano-1/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -26,7 +26,7 @@ SubmitURL: http://
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe" "C:/Users/livti/Desktop/Projects/ML Stuff/AirPiano"
+ConfigureCommand: "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe" "C:/Users/livti/Desktop/Projects/MLStuff/AirPiano-1"
 MakeCommand: "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 
@@ -75,7 +75,7 @@ CudaSanitizerCommand:
 CudaSanitizerCommandOptions: 
 MemoryCheckType: 
 MemoryCheckSanitizerOptions: 
-MemoryCheckCommand: MEMORYCHECK_COMMAND-NOTFOUND
+MemoryCheckCommand: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/cuda-memcheck.exe
 MemoryCheckCommandOptions: 
 MemoryCheckSuppressionFile: 
 
